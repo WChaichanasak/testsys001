@@ -28,7 +28,13 @@
                 }
             }```
 
+
+
+
     ใช้ objectmapper
+
+
+    
 ```
 class ModelData: Mappable {
     var id:String = ""
